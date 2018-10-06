@@ -1,7 +1,5 @@
 **Andrew Mason at Startup School SV 2014-uX9ldi32Xnc.mp4**
 
-*2014年SV创业学校的Andrew Mason-uX9ldi32Xnc.mp4*
-
 \[00:00:02\] That was a really good intro for making it up just then.
 
 [00：00：02]这真是一个很好的介绍，正好在那时。
@@ -1178,4 +1176,3 @@ I\'m sorry we went when everybody was too loud applause.
 
 
 很抱歉，当大家掌声太大时，我们都去了。
-

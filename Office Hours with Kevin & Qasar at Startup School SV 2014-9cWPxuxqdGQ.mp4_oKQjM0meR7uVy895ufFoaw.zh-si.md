@@ -1,7 +1,5 @@
 **Office Hours with Kevin & Qasar at Startup School SV 2014-9cWPxuxqdGQ.mp4**
 
-*与Kevin&Qasar在启动学校SV 2014-9 cWxuxqdGQ.mp4*的办公时间
-
 \[00:00:02\] All right.
 
 [00：00：02]好的。
@@ -1978,4 +1976,3 @@ That\'s how we get.
 
 
 [00：35：38]来到这里。
-

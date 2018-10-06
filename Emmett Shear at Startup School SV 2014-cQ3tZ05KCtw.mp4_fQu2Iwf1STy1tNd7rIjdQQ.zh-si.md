@@ -1,7 +1,5 @@
 **Emmett Shear at Startup School SV 2014-cQ3tZ05KCtw.mp4**
 
-*Emmett剪切在启动学校SV 2014-cQ3tZ05KCtw.mp4*
-
 \[00:00:03\] Larry buddy I actually work yes.
 
 [00：00：03]拉里·巴迪，我确实工作过。
@@ -718,4 +716,3 @@ It\'s the only way to succeed in startups.
 
 
 [00：18：10]谢谢。
-

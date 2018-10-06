@@ -1,7 +1,5 @@
 **Kevin Systrom at Startup School SV 2014-\_h\_6xM36Z4g.mp4**
 
-*凯文·希斯特罗姆在启动学校SV 2014-\_h_6xM36Z4g.mp4*
-
 \[00:00:03\] Kevin thanks a lot for joining us today.
 
 凯文非常感谢你今天加入我们。
@@ -1242,4 +1240,3 @@ Also.
 
 
 还有。
-

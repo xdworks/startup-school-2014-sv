@@ -1,7 +1,5 @@
 **Reid Hoffman at Startup School SV 2014-nef6uTa2a5w.mp4**
 
-*Reid Hoffman在2014年创业学校SV-nef6uTa2a5w.mp4*
-
 \[00:00:02\] Thank you for coming to get started.
 
 [00：00：02]谢谢你的到来。
@@ -1270,4 +1268,3 @@ Klaus.
 
 
 克劳斯。
-

@@ -1,6 +1,5 @@
 **Eric Migicovsky at Startup School SV 2014-0-JL7bbQ0tw.mp4**
 
-*启动学校SV 2014-0-JL7bbQ0tw.mp4*Eric Migicovsky
 
 \[00:00:03\] Hi guys.
 
@@ -946,4 +945,3 @@ And yeah that\'s a little bit about the pebble story applause.
 
 
 是的，那是关于鹅卵石故事的一点掌声。
-

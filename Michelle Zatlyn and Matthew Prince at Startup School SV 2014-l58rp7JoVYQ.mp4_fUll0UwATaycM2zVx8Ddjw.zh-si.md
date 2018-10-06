@@ -1,7 +1,5 @@
 **Michelle Zatlyn and Matthew Prince at Startup School SV 2014-l58rp7JoVYQ.mp4**
 
-*2014年SV创业学校的Michelle Zatlyn和Matthew Prince-158rp7JoVYQ.mp4*
-
 \[00:00:02\] Well do you think we\'d be here now.
 
 [00：00：02]你认为我们现在会在这里吗？
@@ -1006,4 +1004,3 @@ Thank you so much for tolerating our sort of rambling discussion Gelhaus.
 
 
 非常感谢你容忍我们漫不经心的讨论，盖尔豪斯。
-

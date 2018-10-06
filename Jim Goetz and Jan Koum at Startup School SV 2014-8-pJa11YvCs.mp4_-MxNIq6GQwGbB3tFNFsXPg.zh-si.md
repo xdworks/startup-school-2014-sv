@@ -1,7 +1,5 @@
 **Jim Goetz and Jan Koum at Startup School SV 2014-8-pJa11YvCs.mp4**
 
-*Startup School SV 2014-8-pJa11YvCs.mp4*Jim Goetz和Jan Koum
-
 \[00:00:02\] So this is really cool.
 
 [00：00：02]所以这真的很酷。
@@ -1102,4 +1100,3 @@ Thank you.
 
 
 谢谢。
-

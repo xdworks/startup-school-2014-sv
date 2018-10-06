@@ -1,7 +1,5 @@
 **Ron Conway at Startup School SV 2014-qvHhhIfu7Lo.mp4**
 
-*2014年创业学校SV-qvHhhIfu7Lo.mp4*
-
 \[00:00:02\] He\'s back for a day or an hour.
 
 [00：00：02]他回来了一天或一小时。

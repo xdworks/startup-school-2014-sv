@@ -1,7 +1,5 @@
 **Hosain Rahman at Startup School SV 2014-ZpINPjfSlZc.mp4**
 
-*Hosain Rahman在启动学校SV 2014-ZpINPjfSlZc.mp4*
-
 \[00:00:02\] Thank you for coming.
 
 [00：00：02]谢谢你能来。
@@ -1154,4 +1152,3 @@ Congratulations on all of your hard won second half.
 
 
 [00：29：19]我对我的占卜盒很着迷，非常感谢你今天能来。
-

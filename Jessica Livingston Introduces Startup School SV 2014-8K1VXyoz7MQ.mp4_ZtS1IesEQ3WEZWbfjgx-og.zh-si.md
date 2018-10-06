@@ -1,6 +1,5 @@
 **Jessica Livingston Introduces Startup School SV 2014-8K1VXyoz7MQ.mp4**
 
-*Jessica Livingston介绍启动学校SV 2014-8K1VXyoz7MQ.mp4*
 
 \[00:00:03\] Good morning.
 
@@ -82,4 +81,3 @@ I\'m also delighted to announce that Paul Graham is making a guest appearance th
 
 
 我也很高兴地宣布，保罗格雷厄姆今天上午将出席采访罗恩。
-

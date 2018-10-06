@@ -1,7 +1,5 @@
 **Danae Ringelmann at Startup School SV 2014-QPbHf4i6CrQ.mp4**
 
-*Sv初创学校的Danae Ringelmann-QPbHf4i6CrQ.mp4*
-
 \[00:00:02\] First of all this is totally awesome.
 
 [00：00：02]首先，这真是太棒了。
@@ -1206,4 +1204,3 @@ Apply.
 
 
 申请。
-
