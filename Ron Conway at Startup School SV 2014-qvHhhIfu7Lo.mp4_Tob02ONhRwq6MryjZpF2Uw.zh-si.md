@@ -776,7 +776,8 @@ That is so interesting.
 
 Can I work with you on it.
 
-https://tmt.ap-beijing.tencentcloudapi.com/?Action=TextTranslate&Nonce=1234&ProjectId=1257710951&Region=ap-beijing&SecretId=AKIDPqCXo8hXckompwwu7EB4sWzTvJXboBh2&Source=en&SourceText=Can+I+work+with+you+on+it.&Target=zh&Timestamp=1538797318&Version=2018-03-21&Signature=CN4ArZL78iiHuLHSJ1mmS6hwxCg=
+我能和你合作吗。
+
 
 \[00:18:50\] KABUM you have a co-founder.
 
@@ -1096,7 +1097,8 @@ It\'s so even though when they get an e-mail say much of them.
 
 \[00:26:38\] For sure for sure because because I know how hard it is.
 
-https://tmt.ap-beijing.tencentcloudapi.com/?Action=TextTranslate&Nonce=1234&ProjectId=1257710951&Region=ap-beijing&SecretId=AKIDPqCXo8hXckompwwu7EB4sWzTvJXboBh2&Source=en&SourceText=%5C%5B00%3A26%3A38%5C%5D+For+sure+for+sure+because+because+I+know+how+hard+it+is.&Target=zh&Timestamp=1538797326&Version=2018-03-21&Signature=AslM4uQT2hNS00MWaISfufqSmtY=
+肯定是因为我知道这有多难。
+
 
 \[00:26:44\] So if I hadn\'t founded a company myself I wouldn\'t feel like I had as much credibility.
 
@@ -1422,4 +1424,3 @@ I\'ll be talking to Rob.
 
 
 我要和罗伯谈谈。
-
